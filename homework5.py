@@ -1,4 +1,4 @@
-immutable_var = ('Hello', ['World', '!'], 5,)
+immutable_var = ('Hello', ['World', '!'], 5)
 print(immutable_var)
 
 try:
