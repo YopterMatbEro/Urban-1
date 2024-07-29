@@ -3,5 +3,5 @@ hours = 1.5
 course = 'Python'
 time_for_task = hours / quantity
 
-print(f'{course}, всего задач: {quantity}, затрачено часов: {hours}, среднее время выполнения: {time_for_task} часа')
+print(f'Курс: {course}, всего задач: {quantity}, затрачено часов: {hours}, среднее время выполнения: {time_for_task} часа')
 print(f'Или {hours * 60 / quantity} минут')
